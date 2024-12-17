@@ -1,0 +1,17 @@
+{
+  "name": "chess-game",
+  "version": "1.0.0",
+  "description": "A TypeScript-based chess game",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "tsc": "tsc"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^5.7.2"
+  }
+}
